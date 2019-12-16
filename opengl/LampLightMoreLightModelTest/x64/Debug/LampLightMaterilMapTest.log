@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(coordSystem.vcxproj, coordSystemReal.vcxproj, LampLightPhoneTest.vcxproj, LampLightMaterilTest.vcxproj, LampLightTest.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  glad.c
+  MaterialMap.cpp
+E:\code\my\opengl\opengl\LampLightMoreLightModelTest\MaterialMap.cpp(180): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\LampLightMoreLightModelTest\MaterialMap.cpp(296): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\LampLightMoreLightModelTest\MaterialMap.cpp(297): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\LampLightMoreLightModelTest\MaterialMap.cpp(301): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\LampLightMoreLightModelTest\MaterialMap.cpp(302): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\LampLightMoreLightModelTest\MaterialMap.cpp(304): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\LampLightMoreLightModelTest\MaterialMap.cpp(305): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\LampLightMoreLightModelTest\MaterialMap.cpp(314): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  LampLightMoreLightModelTest.vcxproj -> E:\code\my\opengl\opengl\x64\Debug\LampLightMoreLightModelTest.exe

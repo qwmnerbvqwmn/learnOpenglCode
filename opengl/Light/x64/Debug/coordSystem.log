@@ -1,0 +1,3 @@
+﻿  transform.cpp
+E:\code\my\opengl\opengl\Light\transform.cpp(187): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Light.vcxproj -> E:\code\my\opengl\opengl\x64\Debug\Light.exe

@@ -1,0 +1,3 @@
+﻿  textureTest.cpp
+E:\code\my\opengl\opengl\texture\textureTest.cpp(20): warning C4305: “初始化”: 从“double”到“float”截断
+  texture.vcxproj -> E:\code\my\opengl\opengl\x64\Debug\texture.exe

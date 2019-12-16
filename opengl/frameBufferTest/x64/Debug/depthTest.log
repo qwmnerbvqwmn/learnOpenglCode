@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(coordSystem.vcxproj, coordSystemReal.vcxproj, LampLightPhoneTest.vcxproj, LampLightMoreLightModelTest.vcxproj, LampLightMaterilTest.vcxproj, LampLightMoreLightModelTogetherTest.vcxproj, LampLightMaterilMapTest.vcxproj, LampLightTest.vcxproj, loadModel.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  LoadModelMain.cpp
+E:\code\my\opengl\opengl\frameBufferTest\mesh.h(94): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferTest\LoadModelMain.cpp(243): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\my\opengl\opengl\frameBufferTest\LoadModelMain.cpp(244): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\my\opengl\opengl\frameBufferTest\LoadModelMain.cpp(251): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\my\opengl\opengl\frameBufferTest\LoadModelMain.cpp(252): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\my\opengl\opengl\frameBufferTest\LoadModelMain.cpp(259): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\my\opengl\opengl\frameBufferTest\LoadModelMain.cpp(260): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\my\opengl\opengl\frameBufferTest\LoadModelMain.cpp(267): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\my\opengl\opengl\frameBufferTest\LoadModelMain.cpp(268): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\my\opengl\opengl\frameBufferTest\LoadModelMain.cpp(283): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferTest\LoadModelMain.cpp(445): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferTest\LoadModelMain.cpp(446): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferTest\LoadModelMain.cpp(450): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferTest\LoadModelMain.cpp(451): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferTest\LoadModelMain.cpp(453): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferTest\LoadModelMain.cpp(454): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferTest\LoadModelMain.cpp(463): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  frameBufferTest.vcxproj -> E:\code\my\opengl\opengl\x64\Debug\frameBufferTest.exe

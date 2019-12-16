@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(coordSystem.vcxproj, coordSystemReal.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Light.cpp
+E:\code\my\opengl\opengl\Light\Light.cpp(220): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\Light\Light.cpp(316): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\Light\Light.cpp(317): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\Light\Light.cpp(321): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\Light\Light.cpp(322): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\Light\Light.cpp(324): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\Light\Light.cpp(325): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\Light\Light.cpp(334): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Light.vcxproj -> E:\code\my\opengl\opengl\x64\Debug\Light.exe

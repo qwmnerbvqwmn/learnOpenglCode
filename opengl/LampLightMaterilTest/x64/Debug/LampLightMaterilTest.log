@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(coordSystem.vcxproj, coordSystemReal.vcxproj, LampLightPhoneTest.vcxproj, LampLightTest.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  glad.c
+  Material.cpp
+E:\code\my\opengl\opengl\LampLightMaterilTest\Material.cpp(162): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\LampLightMaterilTest\Material.cpp(283): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\LampLightMaterilTest\Material.cpp(284): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\LampLightMaterilTest\Material.cpp(288): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\LampLightMaterilTest\Material.cpp(289): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\LampLightMaterilTest\Material.cpp(291): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\LampLightMaterilTest\Material.cpp(292): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\LampLightMaterilTest\Material.cpp(301): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  LampLightMaterilTest.vcxproj -> E:\code\my\opengl\opengl\x64\Debug\LampLightMaterilTest.exe
