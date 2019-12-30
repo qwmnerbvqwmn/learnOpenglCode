@@ -1,0 +1,22 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(blendTest.vcxproj, coordSystem.vcxproj, coordSystemReal.vcxproj, cullFaceTest.vcxproj, depthTest.vcxproj, frameBufferTest.vcxproj, LampLightPhoneTest.vcxproj, LampLightMoreLightModelTest.vcxproj, LampLightMaterilTest.vcxproj, LampLightMoreLightModelTogetherTest.vcxproj, LampLightMaterilMapTest.vcxproj, LampLightTest.vcxproj, loadModel.vcxproj, stencilTest.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  glad.c
+  frameBufferMain.cpp
+E:\code\my\opengl\opengl\frameBufferMirrorTest\mesh.h(94): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferMirrorTest\frameBufferMain.cpp(288): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\frameBufferMain.cpp(289): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\frameBufferMain.cpp(296): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\frameBufferMain.cpp(297): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\frameBufferMain.cpp(304): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\frameBufferMain.cpp(305): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\frameBufferMain.cpp(312): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\frameBufferMain.cpp(313): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\frameBufferMain.cpp(387): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferMirrorTest\frameBufferMain.cpp(469): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferMirrorTest\frameBufferMain.cpp(888): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferMirrorTest\frameBufferMain.cpp(889): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferMirrorTest\frameBufferMain.cpp(893): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferMirrorTest\frameBufferMain.cpp(894): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferMirrorTest\frameBufferMain.cpp(896): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferMirrorTest\frameBufferMain.cpp(897): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferMirrorTest\frameBufferMain.cpp(906): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  frameBufferMirrorTest.vcxproj -> E:\code\my\opengl\opengl\x64\Debug\frameBufferMirrorTest.exe

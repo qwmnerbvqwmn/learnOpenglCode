@@ -1,9 +1,12 @@
 # learnOpenglCode
 https://learnopengl-cn.github.io/ 这个网站的代码学习
 
+## 帧缓冲制作镜子
+镜子
+![source](./pic/frameBufferMirrorTest1.gif)
 
 
-## 帧缓冲后处理， phone光照，透明图片混合
+## 帧缓冲后处理， phone光照，贴图，透明图片混合
 
 原图
 ![source](./pic/frameBufferTest_2019-12-17_01-40-26-38.png)

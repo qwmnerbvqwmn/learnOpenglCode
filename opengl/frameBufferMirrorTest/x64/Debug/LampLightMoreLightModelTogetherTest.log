@@ -1,0 +1,33 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(coordSystem.vcxproj, coordSystemReal.vcxproj, LampLightPhoneTest.vcxproj, LampLightMoreLightModelTest.vcxproj, LampLightMaterilTest.vcxproj, LampLightMaterilMapTest.vcxproj, LampLightTest.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  MoreLightModelTogether.cpp
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(231): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(232): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(239): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(240): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(247): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(248): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(255): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(256): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(284): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(292): warning C4305: “参数”: 从“double”到“GLfloat”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(294): warning C4305: “参数”: 从“double”到“GLfloat”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(299): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(307): warning C4305: “参数”: 从“double”到“GLfloat”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(309): warning C4305: “参数”: 从“double”到“GLfloat”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(314): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(322): warning C4305: “参数”: 从“double”到“GLfloat”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(324): warning C4305: “参数”: 从“double”到“GLfloat”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(329): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(337): warning C4305: “参数”: 从“double”到“GLfloat”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(339): warning C4305: “参数”: 从“double”到“GLfloat”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(354): warning C4305: “参数”: 从“double”到“GLfloat”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(356): warning C4305: “参数”: 从“double”到“GLfloat”截断
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(372): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(517): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(518): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(522): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(523): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(525): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(526): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\my\opengl\opengl\frameBufferMirrorTest\MoreLightModelTogether.cpp(535): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  frameBufferMirrorTest.vcxproj -> E:\code\my\opengl\opengl\x64\Debug\frameBufferMirrorTest.exe
